@@ -1,4 +1,4 @@
-# Exercícios de Python
+# Exercícios em Python
 
 Bem-vindo ao repositório de exercícios de Python! Aqui, você encontrará uma coleção de exercícios resolvidos que foram feitos com a ajuda de um grande professor, Gustavo Guanabara, do Curso em Vídeo.
 
